@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "main.py",
-        "pxt.json"
+        "pxt.json",
+        "tutorial.md"
     ],
     "testFiles": [
         "test.ts"
